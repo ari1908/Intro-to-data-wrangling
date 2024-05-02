@@ -1,36 +1,38 @@
-# 📊 Data Wrangling Class Repository 🐍
+# 🤖 Machine Learning Class Repository 🚀
 
-Welcome to the repository for the **Intro to Data Wrangling** ! This repository serves as a comprehensive resource covering the essential concepts and techniques of data wrangling using Python.
+Welcome to the repository for the **Introduction to Machine Learning** course! This repository serves as a comprehensive hub for learning and applying essential machine learning concepts and techniques using Python.
 
 ---
 
 ## Description 📝
 
-**Data wrangling**, also known as data munging, is the process of cleaning, structuring, and enriching raw data into a desired format for better decision-making in data analysis and machine learning tasks. It involves various steps such as data collection, data cleaning, data transformation, and data integration.
+**Machine Learning** is a field of artificial intelligence that enables computers to learn from and make decisions based on data. This course covers foundational to advanced machine learning techniques, preparing students for real-world data analysis and predictive modeling tasks. The course includes:
+
+- Basics of Machine Learning
+- Supervised vs Unsupervised Learning
+- Model Evaluation and Selection
+- Feature Engineering
+- Machine Learning Algorithms (Linear Regression, Decision Trees, Neural Networks, etc.)
+- Ensemble Techniques
 
 ---
 
-## Textbook Reference 📚
+ Covering:
 
-The primary textbook used for this class is "**Data Wrangling with Python**" by Jacqueline Kazil and Katharine Jarmul. This book provides a thorough introduction to data wrangling techniques using the Python programming language, covering topics such as:
-
-- Introduction to Data Wrangling
-- Data Cleaning Techniques
-- Data Transformation Methods
-- Working with Different Data Formats (CSV, JSON, XML, etc.)
-- Handling Missing Data
-- Data Aggregation and Grouping
-- Data Visualization After Wrangling
+- Core concepts and applications of machine learning
+- Building and fine-tuning predictive models
+- Advanced techniques for model optimization
+- Practical examples and case studies
 
 ---
 
 ## Repository Structure 📁
 
-This repository is organized into the following major parts:
+This repository is organized into the following key sections:
 
-1. **Lecture Materials**: Contains lecture slides, code examples, and supplementary materials used during class sessions.
-2. **Assignments**: Includes assignments and exercises to practice data wrangling concepts covered in the class.
-3. **Projects**: Provides project guidelines and resources for hands-on data wrangling projects.
-4. **Additional Resources**: Links to external resources, articles, and tutorials to deepen understanding and explore advanced topics in data wrangling.
+1. **Lecture Materials**: Contains slides, code examples, and additional notes used during lectures.
+2. **Assignments**: Features exercises and assignments to reinforce learning and apply concepts in practical scenarios.
+3. **Projects**: Outlines project requirements and resources to engage in comprehensive, hands-on machine learning tasks.
+4. **Additional Resources**: Provides links to further readings, tutorials, and videos for an in-depth understanding of advanced machine learning topics.
 
 
